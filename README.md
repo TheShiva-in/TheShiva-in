@@ -1,71 +1,195 @@
-# Hi 👋, I'm Shiva
+<div align="center">
 
-### 💻 Software Engineering Student | C++ Learner | Future Software Engineer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Shiva
 
-Welcome to my GitHub profile! I'm passionate about learning programming, solving problems, and building projects step by step.
+### 🚀 Software Engineering Student • C++ Developer • Future Software Engineer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Learning+C%2B%2B+Everyday;Building+Amazing+Projects;Future+Open+Source+Contributor;Never+Stop+Learning+🚀">
 
-## 👨‍💻 About Me
+<br>
 
-* 🎓 Software Engineering Student
-* 🌱 Currently learning **C++**
-* 📚 Exploring Data Structures & Algorithms
-* 🚀 Building beginner-friendly projects
-* 🎯 Goal: Become a skilled Software Engineer
+<img src="https://komarev.com/ghpvc/?username=TheShiva-in&style=for-the-badge&color=blue">
 
----
+<img src="https://img.shields.io/github/followers/TheShiva-in?style=for-the-badge">
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/github/stars/TheShiva-in?style=for-the-badge">
 
-* 💙 C++
-* 🌿 Git
-* 🐙 GitHub
-* 🧠 Problem Solving
+</div>
 
 ---
 
-## 📖 Currently Learning
+# 💎 About Me
 
-* C++ Fundamentals
-* Object-Oriented Programming (OOP)
-* Standard Template Library (STL)
-* Data Structures & Algorithms
-* Git & GitHub
+```cpp
+class Shiva {
 
----
+public:
 
-## 🚀 Upcoming Projects
+    string Education = "Software Engineering Student";
 
-* 🧮 Calculator
-* 🏦 Bank Management System
-* 🎓 Student Management System
-* 📚 Library Management System
-* 🎮 Tic Tac Toe
-* 🐍 Snake Game
-* 📒 Contact Book
-* 📊 Expense Tracker
+    string Language = "C++";
+
+    string CurrentlyLearning = "DSA + OOP + STL";
+
+    string Goal = "Become a Software Engineer";
+
+};
+```
 
 ---
 
-## 🎯 2026 Goals
+# 🚀 Tech Stack
 
-* ✅ Master C++
-* ✅ Complete DSA
-* ✅ Build 20+ Projects
-* ✅ Learn Web Development
-* ✅ Contribute to Open Source
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode"/>
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/TheShiva-in
+</p>
 
 ---
 
-### 💡 Quote
+# 🌱 Currently Learning
 
-> "Every expert was once a beginner. Keep learning, keep building."
+✅ C++
 
-⭐ Thank you for visiting my profile! I'm learning something new every day and sharing my journey through code.👨‍💻
+✅ Object Oriented Programming
+
+✅ STL
+
+✅ Data Structures
+
+✅ Algorithms
+
+✅ Git & GitHub
+
+---
+
+# 🎯 2026 Roadmap
+
+🟩 Master C++
+
+🟩 Build 25+ Projects
+
+🟩 Learn DSA
+
+🟩 Learn Web Development
+
+🟩 Open Source Contribution
+
+🟩 Crack Internship
+
+---
+
+# 📂 Featured Projects
+
+🔹 Calculator
+
+🔹 Student Management System
+
+🔹 Bank Management System
+
+🔹 Tic Tac Toe
+
+🔹 Snake Game
+
+🔹 Contact Book
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheShiva-in&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiva-in&layout=compact&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TheShiva-in&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheShiva-in&theme=algolia&no-frame=true&row=1&column=7">
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShiva-in&theme=tokyo-night">
+
+</p>
+
+---
+
+# 💻 Coding Journey
+
+```text
+2026
+
+██████████░░░░░░░░░░  C++
+
+████████░░░░░░░░░░░░  OOP
+
+███████░░░░░░░░░░░░░  STL
+
+█████░░░░░░░░░░░░░░░  DSA
+
+███░░░░░░░░░░░░░░░░░  Web Development
+```
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while(!success)
+{
+    Learn();
+    Build();
+    Commit();
+    Repeat();
+}
+```
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/TheShiva-in">
+
+<img src="https://skillicons.dev/icons?i=github">
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# ⭐ Thanks For Visiting ⭐
+
+### "Dream Big • Code Daily • Never Give Up"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
