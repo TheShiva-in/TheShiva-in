@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm passionate about learning programming, solving
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/TheShiva.in
+* GitHub: https://github.com/TheShiva-in
 
 ---
 
